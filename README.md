@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m a physics undergraduate<br>👯 I’m looking to collaborate on projects involving Physics and AI<br>🌱 I’m currently learning ML/AI and geospatial analysis<br>⚡ Fun fact
+🔭 I’m a physics undergraduate<br>👯 I’m looking to collaborate on projects involving Physics and AI<br>🌱 I’m currently learning ML/AI and geospatial analysis<br>
+⚡ We discovered Helium on Sun before we did it on Earth
 
 
 ## 🌐 Socials:
