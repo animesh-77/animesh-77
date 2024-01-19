@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a physics undergraduate<br>👯 I’m looking to collaborate on projects involving Physics and AI<br>🌱 I’m currently learning ML/AI and geospatial analysis<br>⚡ Fun fact
+🖥️ Machine learning at UCL<br>🔭 Physics <br>👯 Looking to collaborate on projects involving Physics and AI/ML<br>🌱 Currently learning ML/AI and geospatial analysis<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
