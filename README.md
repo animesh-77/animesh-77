@@ -1,5 +1,6 @@
 # 💫 About Me:
-🖥️ Machine learning at UCL<br>🔭 Physics at St. Stephen's College <br>👯 Looking to collaborate on projects involving Physics and AI/ML<br>🌱 Currently learning ML/AI and geospatial analysis<br>⚡ Fun fact
+🖥️ Machine learning at UCL<br>🔭 Physics at St. Stephen's College <br>👯 Looking to collaborate on projects involving Physics and AI/ML<br>🌱 Currently learning ML/AI and geospatial analysis<br>⚡ Fun fact *"If an apple is magnified to the size of the earth, then the atoms in the apple are approximately the size of the original apple."*- 
+The Feynman Lectures on Physics Vol 1
 
 
 ## 🌐 Socials:
